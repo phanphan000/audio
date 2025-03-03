@@ -1,0 +1,4 @@
+﻿  AudioEngine.cpp
+D:\PHANVANHIEU__K66\MyProject\Project1_Audio_mp3\AudioEngine\AudioEngine\AudioEngine.cpp(93,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\PHANVANHIEU__K66\MyProject\Project1_Audio_mp3\AudioEngine\AudioEngine\AudioEngine.cpp(94,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  AudioEngine.vcxproj -> D:\PHANVANHIEU__K66\MyProject\Project1_Audio_mp3\AudioEngine\Debug\AudioEngine.exe
