@@ -1,2 +1,3 @@
 ﻿  MainController.cpp
+D:\PHANVANHIEU__K66\MyProject\Project1_Audio_mp3\MainController\MainController\MainController.cpp(47,10): warning C4101: 'hwndSpeed': unreferenced local variable
   MainController.vcxproj -> D:\PHANVANHIEU__K66\MyProject\Project1_Audio_mp3\MainController\Debug\MainController.exe

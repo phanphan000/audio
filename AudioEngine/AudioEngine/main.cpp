@@ -3,11 +3,11 @@
 #define PIPE_NAME TEXT("\\\\.\\pipe\\AudioPipe")
 
 int main() {
-    cout << "===== AudioEngine =====\n";
+    cout << "===== AudioMp3 =====\n";
     startMainController();
 
     if (!BASS_Init(-1, 44100, 0, 0, NULL)) {
-        cout << "[AudioEngine] Loi khoi tao BASS! (Loi: " << BASS_ErrorGetCode() << ")\n";
+       // cout << "[AudioMp3] Loi khoi tao BASS! (Loi: " << BASS_ErrorGetCode() << ")\n";
         return 1;
     }
 

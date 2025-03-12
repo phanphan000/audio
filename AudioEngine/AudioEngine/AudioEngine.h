@@ -15,6 +15,7 @@ namespace fs = filesystem;
 extern void playMusic();
 extern vector<string> playlist;
 extern bool isPlaying;
+extern bool isSpeedX2;
 extern size_t currentTrack;
 extern HSTREAM stream;
 
@@ -23,7 +24,6 @@ double getVolume();
 void setVolume(float volume);
 void displayTrackInfo();
 void loadPlaylist();
-void stopMusic();
 void pauseMusic();
 void nextTrack();
 void prevTrack();
